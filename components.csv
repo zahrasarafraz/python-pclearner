@@ -1,0 +1,30 @@
+category,name,price,score,note
+CPU,AMD Ryzen 5 7600,190,4,Great starter chip with built-in graphics
+CPU,AMD Ryzen 5 9600X,230,6,Fast and efficient for games and apps
+CPU,AMD Ryzen 7 7700,280,7,8 cores - great for multitasking and editing
+CPU,AMD Ryzen 7 9800X3D,470,9,One of the best gaming chips you can buy
+GPU,No graphics card (uses CPU graphics),0,1,Fine for school work and videos
+GPU,AMD Radeon RX 6600,200,3,Solid 1080p gaming on a small budget
+GPU,NVIDIA GeForce RTX 4060,300,5,Smooth 1080p gaming with nice features
+GPU,AMD Radeon RX 7800 XT,480,7,Great for 1440p gaming
+GPU,NVIDIA GeForce RTX 5070 Ti,800,9,High-end power for 4K and heavy editing
+RAM,16GB DDR5-5200,55,3,Enough for basic use
+RAM,16GB DDR5-6000,70,5,Faster memory for everyday gaming
+RAM,32GB DDR5-6000,110,7,Comfortable for gaming and editing
+RAM,64GB DDR5-6000,220,9,For very heavy video and 3D work
+Motherboard,A620 Basic Board,90,3,Simple and cheap
+Motherboard,B650 Board,130,5,Best value for most builds
+Motherboard,B650 Wi-Fi Board,180,7,Adds Wi-Fi and more ports
+Motherboard,X870E Premium Board,330,9,Top features and upgrade room
+Storage,500GB NVMe SSD,40,3,Fast but small
+Storage,1TB NVMe SSD,65,5,Good size for games and files
+Storage,2TB NVMe SSD,120,7,Lots of room for big game libraries
+Storage,4TB NVMe Gen4 SSD,260,9,Huge and very fast
+PSU,550W Bronze Power Supply,50,3,Enough for a small build
+PSU,650W Bronze Power Supply,65,5,Good for mid-range builds
+PSU,750W Gold Power Supply,100,7,Efficient and ready for strong GPUs
+PSU,1000W Gold Power Supply,170,9,Plenty of power for anything
+Case,Basic Mid Tower,45,3,Simple box that does the job
+Case,Airflow Mesh Case,70,5,Mesh front keeps parts cooler
+Case,Fractal Pop Air,100,7,Cool and quiet and good-looking
+Case,Premium Glass Case,160,9,Show-off case with great cooling
